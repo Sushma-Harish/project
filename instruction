@@ -1,0 +1,20 @@
+create folder
+vs code open created folder
+
+npx create-react-app  kanakpura
+
+ -cd kanakpura
+ 
+ -npm run build
+ 
+ -npm start
+
+//node version
+-16.17.0
+//npm version
+-8.15.0
+//node sass
+-6.0+
+-npm install node-sass@6.0
+//react arrow function export
+rafce
